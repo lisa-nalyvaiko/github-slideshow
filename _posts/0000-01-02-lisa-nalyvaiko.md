@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Lets learn the heck out of this github thing!
 Use the left arrow to go back!
